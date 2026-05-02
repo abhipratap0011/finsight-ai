@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+langchain-core
+langchain-text-splitters
+yfinance
+pandas
+streamlit
+faiss-cpu
+sentence-transformers
+python-dotenv
+requests
+beautifulsoup4
+newspaper3k
+plotly
+pypdf
